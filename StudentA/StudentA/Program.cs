@@ -10,9 +10,7 @@ namespace StudentA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Armin! Test0102");
-            Console.WriteLine("Hallo Jules!");
-
+            Console.WriteLine("Hello Armin!");
         }
     }
 }
