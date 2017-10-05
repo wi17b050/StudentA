@@ -11,6 +11,8 @@ namespace StudentA
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Armin!");
+
+            Console.WriteLine("let´s do some merging");
         }
     }
 }
